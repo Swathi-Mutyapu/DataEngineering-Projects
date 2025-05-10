@@ -1,5 +1,5 @@
   
-# Real-Time Crypto Price Streaming using Databricks
+# Real-Time Crypto Price Tracker using Databricks
 
 This project demonstrates how to build a fault-tolerant, real-time data pipeline to track cryptocurrency prices using Spark Structured Streaming in Databricks Community Edition. It simulates streaming by ingesting JSON files into DBFS and processes them incrementally with schema enforcement and checkpointing enabled.
 
